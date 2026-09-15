@@ -60,7 +60,3 @@ make
 ```
 
 The same pattern can be used for the other exercise directories that contain a Makefile.
-
-## Notes
-
-This repository preserves the original coursework state. Some directories contain assignment scaffolding, test programs or partially completed exercise code in addition to the implemented parts. The source files have not been rewritten for portfolio presentation; this top-level README was added later to make the repository structure and subject matter easier to understand from GitHub.
