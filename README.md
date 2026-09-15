@@ -2,6 +2,8 @@
 
 Collection of C coursework exercises from the Algorithms (IAL) course at Brno University of Technology. The repository focuses on implementing and working with fundamental data structures using pointers, dynamic memory and explicit data-structure operations.
 
+The repository preserves the original coursework state, so some directories include assignment scaffolding, test utilities or partially completed exercise code alongside implemented parts.
+
 ## Repository overview
 
 The coursework is split into two groups of exercises.
@@ -20,7 +22,7 @@ Each exercise contains the C source and header files together with the original 
 - `btree/rec` — recursive binary search tree exercise
 - `btree/iter` — iterative binary search tree exercise using explicit stacks
 
-The binary-tree exercises cover operations such as initialization, search, insertion, deletion, disposal and tree traversal. The iterative variant uses auxiliary stack structures instead of recursion.
+The binary-tree assignments cover operations such as initialization, search, insertion, deletion, disposal and tree traversal. The iterative variant is designed to use auxiliary stack structures instead of recursion.
 
 ## Topics covered
 
